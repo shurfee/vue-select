@@ -1,5 +1,5 @@
 {
-  "name": "vue-select",
+  "name": "vue-select-clone",
   "version": "3.11.2",
   "description": "Everything you wish the HTML <select> element could do, wrapped up into a lightweight, extensible Vue component.",
   "author": "Jeff Sagal <sagalbot@gmail.com>",
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sagalbot/vue-select.git"
+    "url": "https://github.com/shurfee/vue-select.git"
   },
   "peerDependencies": {
     "vue": "3.x"
